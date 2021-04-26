@@ -24,4 +24,4 @@
 
     4° = The Message(just required when using the Normal Message mode)
 
-- Then, execute the program and have fun pissing of your friends 
+- Then, execute the program and have fun pissing your friends off
