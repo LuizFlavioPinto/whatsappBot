@@ -1,6 +1,6 @@
 # Whatsapp-Bot
 
-- This is a Bot that sends messages automatically to another person or group in Whatsapp.
+- This is a Bot that sends messages automatically to other person or group in Whatsapp.
 
 ## Technologies:
 - This was made in NodeJS with the Puppeteer library.
